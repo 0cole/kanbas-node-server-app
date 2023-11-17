@@ -5,13 +5,12 @@ import users from "./users.json" assert { type: "json" };
 import grades from "./grades.json" assert { type: "json" };
 import enrollments from "./enrollments.json" assert { type: "json" };
 
-const database = {
+export default {
 	courses,
 	modules,
 	assignments,
 	users,
-	enrollments,
 	grades,
-};
-
-export default database;
+	enrollments,
+  };
+  
