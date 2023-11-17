@@ -1,0 +1,110 @@
+[
+	{
+		"_id": "101",
+		"name": "Introduction to Rocket Propulsion",
+		"description": "Basic principles of rocket propulsion and rocket engines.",
+		"course": "101"
+	},
+	{
+		"_id": "102",
+		"name": "Fuel and Combustion",
+		"description": "Understanding rocket fuel, combustion processes, and efficiency.",
+		"course": "101"
+	},
+	{
+		"_id": "103",
+		"name": "Nozzle Design",
+		"description": "Principles of rocket nozzle design and performance optimization.",
+		"course": "101"
+	},
+	{
+		"_id": "201",
+		"name": "Fundamentals of Aerodynamics",
+		"description": "Basic aerodynamic concepts and fluid dynamics principles.",
+		"course": "102"
+	},
+	{
+		"_id": "202",
+		"name": "Subsonic and Supersonic Flow",
+		"description": "Understanding subsonic and supersonic aerodynamic behaviors.",
+		"course": "102"
+	},
+	{
+		"_id": "203",
+		"name": "Aerodynamic Heating",
+		"description": "Study of aerodynamic heating and thermal protection systems.",
+		"course": "102"
+	},
+	{
+		"_id": "301",
+		"name": "Spacecraft Structural Design",
+		"description": "Fundamentals of designing spacecraft structures and materials selection.",
+		"course": "103"
+	},
+	{
+		"_id": "302",
+		"name": "Orbital Mechanics",
+		"description": "Understanding orbital dynamics and mission planning.",
+		"course": "103"
+	},
+	{
+		"_id": "303",
+		"name": "Spacecraft Systems Engineering",
+		"description": "Overview of spacecraft systems and subsystems engineering.",
+		"course": "103"
+	},
+	{
+		"_id": "401",
+		"name": "Hypertext Markup Language",
+		"description": "Foundations of HTML",
+		"course": "104"
+	},
+	{
+		"_id": "402",
+		"name": "Cascading Style Sheets",
+		"description": "Foundations of CSS",
+		"course": "104"
+	},
+	{
+		"_id": "403",
+		"name": "React JavaScript",
+		"description": "Foundations of React.js.",
+		"course": "104"
+	},
+	{
+		"_id": "501",
+		"name": "Introduction to Assembly",
+		"description": "Foundations of Assembly",
+		"course": "105"
+	},
+	{
+		"_id": "502",
+		"name": "Memory, Stack, and Recursion",
+		"description": "Loop and recursion concepts",
+		"course": "105"
+	},
+	{
+		"_id": "503",
+		"name": "Processes, File I/O",
+		"description": "Reading and writing files, redirection, and pipes",
+		"course": "105"
+	},
+	{
+		"_id": "601",
+		"name": "Introduction",
+		"description": "Conceptual Analysis and Philosophy of Language",
+		"course": "106"
+	},
+	{
+		"_id": "602",
+		"name": "What is an Argument?",
+		"description": "Can machines think?",
+		"course": "106"
+	},
+	{
+		"_id": "603",
+		"name": "What is Knowledge",
+		"description": "Justified True Belief, Gettier Problem, and epistemology",
+		"course": "106"
+	}
+]

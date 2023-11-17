@@ -1,0 +1,44 @@
+[
+	{
+		"_id": "101",
+		"name": "Rocket Propulsion",
+		"number": "RS4550",
+		"startDate": "2023-01-10",
+		"endDate": "2023-05-15"
+	},
+	{
+		"_id": "102",
+		"name": "Aerodynamics",
+		"number": "RS4560",
+		"startDate": "2023-01-10",
+		"endDate": "2023-05-15"
+	},
+	{
+		"_id": "103",
+		"name": "Spacecraft Design",
+		"number": "RS4570",
+		"startDate": "2023-01-10",
+		"endDate": "2023-05-15"
+	},
+	{
+		"_id": "104",
+		"name": "Web Development",
+		"number": "CS4550",
+		"startDate": "2023-01-10",
+		"endDate": "2023-05-15"
+	},
+	{
+		"_id": "105",
+		"name": "Computer Systems",
+		"number": "CS3650",
+		"startDate": "2023-01-10",
+		"endDate": "2023-05-15"
+	},
+	{
+		"_id": "106",
+		"name": "Knowledge in a Digital World",
+		"number": "PHIL1300",
+		"startDate": "2023-01-10",
+		"endDate": "2023-05-15"
+	}
+]

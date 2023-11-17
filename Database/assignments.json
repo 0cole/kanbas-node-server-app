@@ -1,0 +1,146 @@
+[
+	{
+		"_id": "A101",
+		"title": "Propulsion Assignment",
+		"description": "Design a propulsion system for a spacecraft.",
+		"dueDate": "2023-10-15",
+		"course": "101",
+		"availableFrom": "2023-09-15"
+	},
+	{
+		"_id": "A102",
+		"title": "Combustion Analysis",
+		"course": "101",
+		"description": "Analyze the combustion process in a rocket engine.",
+		"dueDate": "2023-10-22",
+		"availableFrom": "2023-09-22"
+	},
+	{
+		"_id": "A103",
+		"title": "Nozzle Design Project",
+		"course": "101",
+		"description": "Design a nozzle for a rocket engine.",
+		"dueDate": "2023-10-29",
+		"availableFrom": "2023-09-29"
+	},
+	{
+		"_id": "A201",
+		"title": "Aerodynamics Quiz",
+		"course": "102",
+		"description": "Take a quiz on aerodynamics concepts.",
+		"dueDate": "2023-11-05",
+		"availableFrom": "2023-10-05"
+	},
+	{
+		"_id": "A202",
+		"title": "Flow Analysis",
+		"course": "102",
+		"description": "Analyze the flow of air around an object.",
+		"dueDate": "2023-11-12",
+		"availableFrom": "2023-10-12"
+	},
+	{
+		"_id": "A203",
+		"title": "Heating Analysis",
+		"course": "102",
+		"description": "Analyze the heating of an object due to air friction.",
+		"dueDate": "2023-11-19",
+		"availableFrom": "2023-10-19"
+	},
+	{
+		"_id": "A301",
+		"title": "Structural Design Task",
+		"course": "103",
+		"description": "Design a structure for a spacecraft.",
+		"dueDate": "2023-11-26",
+		"availableFrom": "2023-10-26"
+	},
+	{
+		"_id": "A302",
+		"title": "Orbital Calculations",
+		"course": "103",
+		"description": "Calculate the orbital parameters of a spacecraft.",
+		"dueDate": "2023-12-03",
+		"availableFrom": "2023-11-03"
+	},
+	{
+		"_id": "A303",
+		"title": "Systems Engineering Exam",
+		"course": "103",
+		"description": "Take an exam on systems engineering concepts.",
+		"dueDate": "2023-12-10",
+		"availableFrom": "2023-11-10"
+	},
+	{
+		"_id": "A401",
+		"title": "A1 ENV + HTML",
+		"course": "104",
+		"description": "Set up the development environment and create an HTML page.",
+		"dueDate": "2023-12-17",
+		"availableFrom": "2023-11-17"
+	},
+	{
+		"_id": "A402",
+		"title": "A2 CSS",
+		"course": "104",
+		"description": "Style the HTML page using CSS.",
+		"dueDate": "2023-12-24",
+		"availableFrom": "2023-11-24"
+	},
+	{
+		"_id": "A403",
+		"title": "A3 REACT",
+		"course": "104",
+		"description": "Create a React component for the HTML page.",
+		"dueDate": "2023-12-31",
+		"availableFrom": "2023-11-31"
+	},
+	{
+		"_id": "A501",
+		"title": "Setting Up",
+		"course": "105",
+		"description": "Set up the development environment for Assembly programming.",
+		"dueDate": "2024-01-07",
+		"availableFrom": "2023-12-07"
+	},
+	{
+		"_id": "A502",
+		"title": "Calculator in Assembly",
+		"course": "105",
+		"description": "Create a calculator program in Assembly language.",
+		"dueDate": "2024-01-14",
+		"availableFrom": "2023-12-14"
+	},
+	{
+		"_id": "A503",
+		"title": "Function Loops in Assembly",
+		"course": "105",
+		"description": "Write a program to demonstrate function loops in Assembly language.",
+		"dueDate": "2024-01-21",
+		"availableFrom": "2023-12-21"
+	},
+	{
+		"_id": "A601",
+		"title": "Week 1 Discussion Post",
+		"course": "106",
+		"description": "Post a discussion topic for the first week of class.",
+		"dueDate": "2024-01-28",
+		"availableFrom": "2024-01-01"
+	},
+	{
+		"_id": "A602",
+		"title": "Week 2 Discussion Post",
+		"course": "106",
+		"description": "Post a discussion topic for the second week of class.",
+		"dueDate": "2024-02-04",
+		"availableFrom": "2024-01-08"
+	},
+	{
+		"_id": "A603",
+		"title": "Week 3 Discussion Post",
+		"course": "106",
+		"description": "Post a discussion topic for the third week of class.",
+		"dueDate": "2024-02-11",
+		"availableFrom": "2024-01-15"
+	}
+]
