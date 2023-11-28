@@ -1,0 +1,1 @@
+export DB_CONNECTION_STRING=mongodb+srv://cole:supersecretpassword@kanbas.ezwox9b.mongodb.net/?retryWrites=true&w=majority
